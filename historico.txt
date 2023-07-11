@@ -1,0 +1,33 @@
+    1  sudo bash
+    2  cd C:Gepeto/gepeto/
+    3  cd C:Gepeto/gepeto/.
+    4  pwd
+    5  ls
+    6  cd Gepeto/
+    7  ls
+    8  cd gepeto/
+    9  ls
+   10  ./integracao_openai.py 
+   11  python 
+   12  python3 integracao_openai.py 
+   13  python pip install openai
+   14  python3 -m venv nome_da_venv
+   15  sudo bash
+   16  cd ..
+   17  ls
+   18  rm -rf Gepeto/
+   19  mkdir software 
+   20  cd software/
+   21  git clone https://github.com/JoaoRotger/gepeto.git
+   22  ls
+   23  virtualenv
+   24  sudo apt get install python3-virtualenv
+   25  sudo apt install python3-virtualenv
+   26  sudo apt update
+   27  sudo apt install python3-virtualenv
+   28  virtualenv venv
+   29  source venv/bin/activate
+   30  pip install -t requirements.txt 
+   31  pip install --help
+   32  pip install -r requirements.txt 
+   33  history >> historico.txt
